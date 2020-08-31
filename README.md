@@ -2,7 +2,7 @@
 # ICE-ATIS NLU Evaluation
 
 <!-- Badges -->
-![ICE-ATIS NLU Evaluation](https://github.com/egillanton/ice-atis-nlu-evaluation/workflows/ICE-ATIS%20NLU%20Evaluation/badge.svg)
+![Python package](https://github.com/egillanton/ice-atis-nlu-evaluation/workflows/Python%20package/badge.svg)
 
 <!-- omit in toc -->
 ## Table of Contents
