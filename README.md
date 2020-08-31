@@ -19,6 +19,10 @@
 		- [1.1.5. System gets the boundaries of the tokens wrong](#115-system-gets-the-boundaries-of-the-tokens-wrong)
 		- [1.1.6. System gets the boundaries and slot-tag wrong](#116-system-gets-the-boundaries-and-slot-tag-wrong)
 - [2. Setup](#2-setup)
+	- [2.1. Create a virtual environment](#21-create-a-virtual-environment)
+	- [2.2. Activate virtual environment](#22-activate-virtual-environment)
+	- [2.3. Install dependecies](#23-install-dependecies)
+	- [2.4. Set evironment variable](#24-set-evironment-variable)
 - [3. Results](#3-results)
 - [4. Contributors](#4-contributors)
 </details>
@@ -45,6 +49,34 @@ When comparing the golden standard annotations with the output of a NLU system d
 #### 1.1.6. System gets the boundaries and slot-tag wrong
 
 ## 2. Setup
+
+Make sure you have python version 3.6 or higher.
+
+[Install python](https://www.python.org/downloads/)
+
+### 2.1. Create a virtual environment
+
+```console
+$ python3 -m venv venv
+```
+
+### 2.2. Activate virtual environment
+
+```console
+$ . ./venv/Scripts/activate
+```
+
+### 2.3. Install dependecies
+
+```console
+(venv)$ pip install -r requirements.txt
+```
+
+### 2.4. Set evironment variable
+
+```console
+(venv)$ export PYTHONPATH=src
+```
 
 ## 3. Results
 
