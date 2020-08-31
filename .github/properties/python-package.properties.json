@@ -1,6 +1,0 @@
-{
-    "name": "ICE-ATIS NLU Evaluation",
-    "description": "Create and test a Python package on multiple Python versions.",
-    "iconName": "python",
-    "categories": ["Python"]
-}
