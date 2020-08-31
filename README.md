@@ -14,7 +14,7 @@
 		- [1.1.3. System misses a slot-tag](#113-system-misses-a-slot-tag)
 		- [1.1.4. System assigns the wrong slot-tag](#114-system-assigns-the-wrong-slot-tag)
 		- [1.1.5. System gets the boundaries of the tokens wrong](#115-system-gets-the-boundaries-of-the-tokens-wrong)
-	- [1.2. System gets the boundaries and slot-tag wrong](#12-system-gets-the-boundaries-and-slot-tag-wrong)
+		- [1.1.6. System gets the boundaries and slot-tag wrong](#116-system-gets-the-boundaries-and-slot-tag-wrong)
 - [2. Setup](#2-setup)
 - [3. Results](#3-results)
 - [4. Contributors](#4-contributors)
@@ -39,7 +39,7 @@ When comparing the golden standard annotations with the output of a NLU system d
 
 #### 1.1.5. System gets the boundaries of the tokens wrong
 
-### 1.2. System gets the boundaries and slot-tag wrong
+#### 1.1.6. System gets the boundaries and slot-tag wrong
 
 ## 2. Setup
 
